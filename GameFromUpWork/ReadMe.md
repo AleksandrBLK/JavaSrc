@@ -1,6 +1,6 @@
-Generate a world and provides interaction
-•	The world must be pseudorandomly generated. 
-•	The generated world must include rooms and hallways, though it may also include outdoor spaces.
+Generate a world and provides interaction<br>
+•	The world must be pseudorandomly generated.<br> 
+•	The generated world must include rooms and hallways, though it may also include outdoor spaces.<br>
 •	At least some rooms should be rectangular, though you may support other shapes as well.
 •	Your game must be capable of generating hallways that include turns (or equivalently, straight hallways that intersect).
 •	The world should contain a random number of rooms and hallways.
