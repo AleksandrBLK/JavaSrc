@@ -1,0 +1,3 @@
+rezultat
+rezultat2
+exit
