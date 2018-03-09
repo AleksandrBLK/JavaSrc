@@ -1,4 +1,4 @@
-Generate a world and provides interaction<br>
+# Generate a world and provides interaction<br><br>
 •	The world must be pseudorandomly generated.<br> 
 •	The generated world must include rooms and hallways, though it may also include outdoor spaces.<br>
 •	At least some rooms should be rectangular, though you may support other shapes as well.<br>
