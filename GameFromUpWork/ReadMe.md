@@ -15,7 +15,7 @@ The image below is an example of a world that meets all of these. In this image,
 ![](https://github.com/AleksandrBLK/JavaSrc/blob/master/GameFromUpWork/img.jpg?raw=true)
 <br><br>
 After pressing N for “new game”, the user should be prompted to enter a “random seed”, which is an integer of their choosing. This integer will be used to generate the world randomly. After the user has pressed the final number in their seed, they should press S to tell the game that they’ve entered the entire seed that they want.<br>
-After the user has entered a seed and pressed S, the game should start.<br> 
+After the user has entered a seed and pressed S, the game should start.<br> <br>
 The user interface of the game must include:<br>
 A 2D grid of tiles showing the current state of the world.<br><br>
 
